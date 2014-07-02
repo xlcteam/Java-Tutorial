@@ -1,11 +1,11 @@
 # Site settings
 title: Java Kurz/Tutorial
-email: amanduch@xlc-team.info
+email: andrej@xlc-team.info
 #description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 baseurl: ""
 url: "http://java.xlc-team.info"
 # twitter_username: jekyllrb
-github_username:  burlito
+# github_username:  burlito
 
 # Build settings
 #markdown: kramdown
